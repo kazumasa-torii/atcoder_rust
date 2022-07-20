@@ -1,12 +1,11 @@
-// mod hello2;
-// mod use_csv;
-// mod use_int;
-mod mandelbrot;
+// mod grep_lite;
+// mod mock_file;
+// mod notquite_file;
+// mod file_test2;
+// mod enmu_test;
+// mod display_state;
+mod check_stas;
 
 fn main() {
-    // println!("Hello, world!");
-    // let _ = hello2::main();
-    // let _ = use_csv::csv();
-    // let _ = use_int::main();
-    let _ = mandelbrot::main();
+    let _ = check_stas::main();
 }

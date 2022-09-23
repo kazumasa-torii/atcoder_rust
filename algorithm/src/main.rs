@@ -1,7 +1,4 @@
-// mod use_max_and_min;
-mod use_abs;
-
+mod data_object;
 fn main() {
-    // use_max_and_min::main();]
-    use_abs::main();
+    data_object::main();
 }
